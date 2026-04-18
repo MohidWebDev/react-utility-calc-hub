@@ -1,4 +1,4 @@
-#react-utility-calc-hub
+# react-utility-calc-hub
 Modular Component Architecture: Effectively organizes the application into decoupled components (Header, AreaCalculator, and BMICalculator), ensuring high maintainability and code readability.
 
 Interactive BMI Engine: Implements a health-tracking utility that calculates Body Mass Index based on weight and height inputs, utilizing conditional logic to ensure valid, non-zero entries.
